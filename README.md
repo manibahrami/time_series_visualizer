@@ -1,4 +1,8 @@
 # time_series_visualizer
+![Image Alt Text](line_plot.jpg)
+![Image Alt Text](bar_plot.jpg)
+![Image Alt Text](box_plot.jpg)
+#Data base is in fcc-forum-pageviews.csv file
 
 
 import matplotlib.pyplot as plt
